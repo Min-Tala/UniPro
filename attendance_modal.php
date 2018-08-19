@@ -1,3 +1,5 @@
+edit for v1.0.2
+
 <!-- Add -->
 <div class="modal fade" id="addnew">
     <div class="modal-dialog">
